@@ -1,0 +1,4 @@
+﻿  conta.cpp
+c:\users\t0114312\source\repos\conta\conta\conta.cpp(36): warning C4715: 'Conta::getEstado': not all control paths return a value
+c:\users\t0114312\source\repos\conta\conta\conta.cpp(66): warning C4715: 'Conta::credito': not all control paths return a value
+  conta.vcxproj -> C:\Users\t0114312\source\repos\conta\Debug\conta.exe
