@@ -1,0 +1,7 @@
+C:\Users\t0114312\source\repos\alunos\alunos\bin\Debug\alunos.exe.config
+C:\Users\t0114312\source\repos\alunos\alunos\bin\Debug\alunos.exe
+C:\Users\t0114312\source\repos\alunos\alunos\bin\Debug\alunos.pdb
+C:\Users\t0114312\source\repos\alunos\alunos\obj\Debug\alunos.csprojAssemblyReference.cache
+C:\Users\t0114312\source\repos\alunos\alunos\obj\Debug\alunos.csproj.CoreCompileInputs.cache
+C:\Users\t0114312\source\repos\alunos\alunos\obj\Debug\alunos.exe
+C:\Users\t0114312\source\repos\alunos\alunos\obj\Debug\alunos.pdb
